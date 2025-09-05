@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=MUX6_2 Pin=IC13-12
+Removed Pin From Net: NetName=MUX6_2 Pin=IC13-13
+Added Pin To Net: NetName=MUX6_2 Pin=IC12-4
+Added Pin To Net: NetName=MUX6_2 Pin=IC12-5
+Added Pin To Net: NetName=MUX4_2 Pin=IC7-12
+Added Pin To Net: NetName=MUX4_2 Pin=IC13-12
+Added Pin To Net: NetName=MUX4_2 Pin=IC13-13
+Added Net: Name=MUX4_2
+Added Pin To Net: NetName=MUX5_2 Pin=IC7-1
+Added Pin To Net: NetName=MUX5_2 Pin=IC12-1
+Added Pin To Net: NetName=MUX5_2 Pin=IC12-2
+Added Net: Name=MUX5_2

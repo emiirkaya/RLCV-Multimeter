@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [LCD_ARD_MULTIMETER.PrjPcb]
+   Generated File[multv2.GTO]
+   Generated File[multv2.GTP]
+   Generated File[multv2.GTS]
+   Generated File[multv2.GTL]
+   Generated File[multv2.GBL]
+   Generated File[multv2.GBS]
+   Generated File[multv2.GBP]
+   Generated File[multv2.GBO]
+   Generated File[multv2.GM1]
+   Generated File[multv2.GKO]
+   Generated File[multv2.GPT]
+   Generated File[multv2.GPB]
+   Generated File[multv2.GD1]
+   Generated File[multv2.GG1]
+   Generated File[multv2.RUL]
+   Generated File[multv2.EXTREP]
+   Generated File[multv2.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 15:28:14 On 04/09/2025
