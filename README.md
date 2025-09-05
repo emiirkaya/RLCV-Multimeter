@@ -1,32 +1,30 @@
-# RLCV-Multimeter
-Multimeter PCB embedded on Arduino Uno R3 that measures R, L, C, voltage and current.
- ## Key features
- + Compact 4-Layer detachable microcontroller PCB with 12V,5V,3.3V power rails from a 11.1 V Lipo battery
- + Pulse, ambient and internal body temperature sensors
- + Peltier and fan modules to implement cooling or heating for the user
- + Microphone and Speaker components to implement voice activated switches.
- + GUI with TFT LCD touchscreen using MicroPython 
- + 6x7 cm compact design
+# RLCV-Multimeter :
+Multimeter PCB embedded on Arduino Uno R3 that measures R, L, C, voltage and current ✨.
+ ## Key features 🗝️
+ + Compact 70x70mm 2-Layer Multimeter PCB design with bottom lane as GND
+ + The old Arduino Uno R3 as the main microcontroller
+ + 16x2 LCD Uno R3 shield for monitoring measurements
+ + Tactile button to switch measurement modes 
+ + Uses DEMUX and Quad line drivers for switching desired sensing circuitry
+ + 2 External ADC ADS1015IDGST chips to only read voltages
+ + ACS712 to measure current up to 5A
+ + LCD and Arduino will be mounted on the drilled holes of the PCB 
 
-Below are the images of the 2 documents from the kicad files of this project
-## ThermovitalSync Board schematics 1
-![tvsb-sch1](https://github.com/user-attachments/assets/0d8bf2e4-9635-4e80-ac3d-99c0edf5830b)
+Below are the images of the 2 documents from the Altium files of this project 
+## Multimeter Board schematics 1 - FETs, DEMUXs, Drivers and Resistance sensing circuitry 📖
+<img width="711" height="808" alt="image" src="https://github.com/user-attachments/assets/a9e25269-f84d-4264-a9cd-9cc6046686b8" />
 
-## ThermovitalSync Board schematics 2
+## Multimeter Board schematics 2 - Arduino mount holes and Inductance, Capacitance, Current, Voltage sensing circuitry 📖
 
-![tvsb-sch2](https://github.com/user-attachments/assets/56100699-5af7-4496-b12e-f63f5c2342b4)
+<img width="591" height="777" alt="image" src="https://github.com/user-attachments/assets/0151dd06-58bb-4dc5-a4fb-6d36c4e6ba45" />
 
-## Esp32 Custom Microcontroller for ThermovitalSync board schematics 1
+## Multimeter Board 2D Model 
+<img width="822" height="784" alt="image" src="https://github.com/user-attachments/assets/65c81c21-da49-4b85-89d4-eb4cdf751b09" />
 
-![esp32-sch1](https://github.com/user-attachments/assets/2c8af4ee-8ead-438e-968c-8e8c50d65268)
-
-## Esp32 Custom Microcontroller for ThermovitalSync board schematics 2
-
-![esp32-sch2](https://github.com/user-attachments/assets/930c6022-47ef-4ec2-9516-92491546a73a)
+## Multimeter Board 3D Model
+<img width="749" height="716" alt="image" src="https://github.com/user-attachments/assets/b506cebc-79d5-4437-9ccf-85195ab46d6b" />
 
 
-## ThermovitalSync Board 3D Model
-![tvsb-3d](https://github.com/user-attachments/assets/2c598403-9068-461c-8c7d-ff049181aa47)
 
-## Esp32 Custom Microcontroller for ThermovitalSync board 3D model
-![esp32-3d](https://github.com/user-attachments/assets/1ab7c66d-4295-4247-b8c0-f7b5b9ba86c1)
+
+
