@@ -23,10 +23,12 @@ Below are the images of the 2 documents from the Altium files of this project
 
 
 ## Multimeter Board 2D Model 
-<img width="822" height="784" alt="image" src="https://github.com/user-attachments/assets/65c81c21-da49-4b85-89d4-eb4cdf751b09" />
+<img width="846" height="807" alt="image" src="https://github.com/user-attachments/assets/59355ceb-0bdc-49c7-99c9-7b66e753152e" />
+
 
 ## Multimeter Board 3D Model
-<img width="749" height="716" alt="image" src="https://github.com/user-attachments/assets/b506cebc-79d5-4437-9ccf-85195ab46d6b" />
+<img width="838" height="798" alt="image" src="https://github.com/user-attachments/assets/664f0c66-7076-43d9-be92-ab92a7c5235d" />
+
 
 
 
